@@ -1,6 +1,8 @@
 # CoinJoinFees
 Comparing fees of different CoinJoin tools (Wasabi & Whirlpool for a range of pool sizes).
 
+I have uploaded the full [python script](CoinJoinFees.py) used to generate these figures.
+
 To Do:
 1) Incorporate On-Chain Fees
 2) Incorporate actual Wasabi UTXO cascade splitting (0.7 -> 0.4, 0.2, 0.1) 
